@@ -1,5 +1,5 @@
 قنــــاة الســورس
-# [vip_api](https://telegram.me/vip_api)
+# https://telegram.me/thewis
 
 
 *******************************************************************
@@ -81,16 +81,13 @@ Open ./data/config.lua and add your ID to the "sudo_users" section in the follow
 ✋🏿 لتصبح مطور بوتك غير الايدي خاص كونفج بايديك 👇🏿
 ```
   sudo_users = {
-    190385827,
+    369136074,
     0,
     YourID
   }
 ```
 😘 مـبروَك أصبَحتـَ مـطورَ بوـتكَ لتوأصل معي 
 
-#Dev : [@BRWUEN](https://telegram.me/BRWUEN)
-#Dev_BOT :  [@BRWUEN_BOT](https://telegram.me/BRWUEN_BOT)
-#Dev_Channel :  [@vip_api](https://telegram.me/vip_api)
-
-عندكَ فكره تطوير السورس او البوت تفظل هنأَ☝🏿️
-You have an idea to develop Alsoors or bot prefer ☝🏿️✋🏿
+#  @hamudy2001
+#  @hamudy68bot
+قناتنه ع تلي https://telegram.me/thewis☝🏿️
